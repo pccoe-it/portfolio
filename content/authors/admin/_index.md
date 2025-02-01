@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Ojas Patil
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ojas Patil
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ojas
+last_name: Patil
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,78 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: SDE Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Definedge Securities
+    url: https://www.definedgesecurities.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:patil.ojas.250202@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Generative Models
+  - Diffusion Processes
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Honors Program in Deep Learning
+    institution: Pimpri Chinchwad College of Engineering, Pune
+    date_start: 2024-08-01
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      I research CellGAN at Pimpri Chinchwad College of Engineering, Pune. This GAN synthesizes cytopathological images to boost patch-level classification in cervical cancer screening. Using a lightweight backbone with non-linear class mapping and a Skip-layer Global Context module, it remarkably enhances classification of cervical cell types like NILM, ASC-US, LSIL, ASC-H, and HSIL, improving diagnostic accuracy.
+
+      Courses Included:
+      - Fundamentals of Neural Networks and Deep Learning
+      - Convolutional Neural Networks (CNN) for Computer Vision
+      - Recurrent Neural Networks (RNN) and Sequence Modeling
+      - Variational Autoencoders
+      - Generative Adversarial Networks (GANs) and Unsupervised Learning
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: B.Tech Information Technology
+    institution: Pimpri Chinchwad College of Engineering, Pune
+    date_start: 2022-11-18
+    date_end: ''
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.28/4.0
+
+      Courses Included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
