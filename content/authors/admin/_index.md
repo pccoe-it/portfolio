@@ -3,7 +3,7 @@
 title: Ojas Patil
 
 # Name pronunciation (optional)
-name_pronunciation: Ojas Patil
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ojas
