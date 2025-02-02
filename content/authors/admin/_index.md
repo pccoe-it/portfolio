@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:patil.ojas.250202@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sanepunk
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/ojas-patil-exe
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -78,9 +78,9 @@ education:
       GPA: 3.28/4.0
 
       Courses Included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning
+      - Database Management Systems
+      - Operating System
   # - area: BSc Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -93,23 +93,23 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: ML Head
+    company_name: Google Developer Group on Campus, PCCoE
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: SDE Intern
+    company_name: Definedge Securities
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-09-25
+    date_end: 2024-12-17
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
