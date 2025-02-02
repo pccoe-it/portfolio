@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ojas Patil
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Ojas Patil
