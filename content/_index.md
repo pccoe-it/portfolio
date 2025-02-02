@@ -35,12 +35,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research lies at the intersection of deep learning and real-world applications. I work on developing and optimizing innovative models that improve performance and efficiency across various domains.  For instance, my work on CellGAN focuses on synthesizing cytopathological images to aid cervical cancer screening by enhancing classification accuracy. In addition, I have developed several projects, including:
+        My research lies at the intersection of deep learning and real-world applications. I work on developing and optimizing innovative models that improve performance and efficiency across various domains.            For instance, my work on CellGAN focuses on synthesizing cytopathological images to aid cervical cancer screening by enhancing classification accuracy. In addition, I have developed several projects,             including:
 
-- A Variational Autoencoder with skip connections (FlaxVAE-SkipNet) that improves feature extraction.
-- A Vision Transformer model for more effective image classification.
-- A Deep Convolutional GAN (DCGAN) designed for high-quality image generation.
-- A transformer-based model (JAX-AttentionNet) aimed at enhancing sequence modeling efficiency.
+        - A Variational Autoencoder with skip connections (FlaxVAE-SkipNet) that improves feature extraction.
+        - A Vision Transformer model for more effective image classification.
+        - A Deep Convolutional GAN (DCGAN) designed for high-quality image generation.
+        - A transformer-based model (JAX-AttentionNet) aimed at enhancing sequence modeling efficiency.
 - A comprehensive Python package, Jack of All Trades, which streamlines machine learning prototyping using JAX.
     design:
       columns: '1'
