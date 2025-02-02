@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm an AI/ML enthusiast and research-driven engineer, passionate about building intelligent systems and advancing deep learning 🔥🤖. Currently pursuing my B.Tech in Information Technology with an honors program in Deep Learning 🎓, I explore cutting-edge AI techniques through research and development.
+        My research lies at the intersection of deep learning and real-world applications. I work on developing and optimizing innovative models that improve performance and efficiency across various domains.  For instance, my work on CellGAN focuses on synthesizing cytopathological images to aid cervical cancer screening by enhancing classification accuracy. In addition, I have developed several projects, including:
 
-        As the Machine Learning Head at Google Developer Group on Campus (GDGC) PCCOE, I lead workshops, mentor students, and deploy scalable AI solutions in the cloud ☁️📊. My experience spans software engineering, algorithm optimization, and building high-performance ML models using JAX, PyTorch, and TensorFlow.
-
-        Always excited to collaborate on AI-driven innovations—let’s build the future together! 🚀💡
+- A Variational Autoencoder with skip connections (FlaxVAE-SkipNet) that improves feature extraction.
+- A Vision Transformer model for more effective image classification.
+- A Deep Convolutional GAN (DCGAN) designed for high-quality image generation.
+- A transformer-based model (JAX-AttentionNet) aimed at enhancing sequence modeling efficiency.
+- A comprehensive Python package, Jack of All Trades, which streamlines machine learning prototyping using JAX.
     design:
       columns: '1'
   # - block: collection
